@@ -1,0 +1,15 @@
+Ajout tas binomial
+Total cost : 172017500
+Average cost : 172.0175
+Variance : 296312890280409.97969375
+Standard deviation : 17213741.3214097656309604644775390625
+
+***************************
+ajout suppression tas binomial
+Total cost : 126237600
+Average cost : 126.2376
+Variance : 3160215204064.06834624
+Standard deviation : 1777699.413304754532873630523681640625
+**********************
+ajout suppression fusion
+Total cost : 259906100
