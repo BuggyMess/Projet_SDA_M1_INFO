@@ -1,0 +1,69 @@
+tas binaire, ajout , ordre croissant
+Total cost : 49621100
+Average cost : 49.6211
+Variance :187648007537.74643479
+Standard deviation :433183.5725621949532069265842437744140625
+
+
+
+********************************************************
+tas binaire,ajout , ordre decroissant
+Total cost : 99035500
+Average cost : 99.0355
+Variance : 54822240191.96973975
+Standard deviation : 234141.496091508190147578716278076171875
+
+**********************************************************
+tas binaire,ajout,cles aleatoires
+Total cost : 69630300
+Average cost : 69.6303
+Variance : 70119225151.62132191
+Standard deviation : 264800.3496063049533404409885406494140625
+***************************************************************
+tas binaire,ajout et extraire
+Total cost : 282882900
+Average cost : 282.8829
+Variance : 338442449329977.26488759
+Standard deviation : 18396805.4109939746558666229248046875
+************************************************************************
+tas_binaire,extraire
+Total cost : 33531800
+Average cost : 335.318
+Variance : 826060807561.838876
+Standard deviation : 908878.8739770767278969287872314453125
+*********************************************************************
+
+tas_binaire_dynamique, ajout aleatoire
+Total cost : 154567600
+Average cost : 154.5676
+Variance : 11917779976108.85703024
+Standard deviation : 3452213.77902772091329097747802734375
+***************************************************
+tas_binaire_dynamique, ajout ordre croissant
+Total cost : 130504900
+Average cost : 130.5049
+Variance : 321348204372968.47107599
+Standard deviation : 17926187.66980220377445220947265625
+*********************************************************
+tas_binaire_dynamique, ajout ordre decroissant
+Total cost : 1676267700
+Average cost : 1676.2677
+Variance : 773387534203540126.59793671
+Standard deviation : 879424547.1918213367462158203125
+*******************************************************
+tas_binaire_dynamique, ajout extraire aleatoire
+Total cost : 37527261100
+Average cost : 37527.2611
+Variance : 8683393768334674.33242679
+Standard deviation : 93184729.26576904952526092529296875
+tas_binaire_dynamique,extraire 
+Total cost : 167687109
+Average cost : 1676.87109
+Variance : 1117788239488136.3475222119
+Standard deviation : 33433340.2382731772959232330322265625
+*******************************************************
+
+
+
+
+
